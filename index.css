@@ -573,7 +573,7 @@ body {
 
 .text {
     position: absolute;
-    text-align: right;
+    text-align: center;
     top: 55%;
     left: 50%;
     width: 68vw;
@@ -581,6 +581,7 @@ body {
     font-family: "yarden";
     color: #03255A;
     font-size: 1rem;
+    font-weight: 400;
     direction: rtl;
 }
 
